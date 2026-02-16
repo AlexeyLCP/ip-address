@@ -1,7 +1,5 @@
-route add 46.134.0.0 mask 255.255.0.0 0.0.0.0 & rem YouTube
 route add 64.233.0.0 mask 255.255.0.0 0.0.0.0 & rem YouTube
 route add 74.125.0.0 mask 255.255.0.0 0.0.0.0 & rem YouTube
-route add 87.245.0.0 mask 255.255.0.0 0.0.0.0 & rem YouTube
 route add 108.177.14.0 mask 255.255.255.0 0.0.0.0 & rem YouTube
 route add 142.250.0.0 mask 255.255.0.0 0.0.0.0 & rem YouTube
 route add 142.251.0.0 mask 255.255.0.0 0.0.0.0 & rem YouTube
@@ -9,11 +7,6 @@ route add 149.86.0.0 mask 255.255.0.0 0.0.0.0 & rem YouTube
 route add 172.217.0.0 mask 255.255.0.0 0.0.0.0 & rem YouTube
 route add 172.253.0.0 mask 255.255.0.0 0.0.0.0 & rem YouTube
 route add 173.194.0.0 mask 255.255.0.0 0.0.0.0 & rem YouTube
-route add 185.125.170.0 mask 255.255.255.0 0.0.0.0 & rem YouTube
-route add 188.234.0.0 mask 255.255.0.0 0.0.0.0 & rem YouTube
-route add 194.9.0.0 mask 255.255.0.0 0.0.0.0 & rem YouTube
-route add 195.13.0.0 mask 255.255.0.0 0.0.0.0 & rem YouTube
-route add 195.122.0.0 mask 255.255.0.0 0.0.0.0 & rem YouTube
 route add 209.85.0.0 mask 255.255.0.0 0.0.0.0 & rem YouTube
 route add 216.58.0.0 mask 255.255.0.0 0.0.0.0 & rem YouTube
 route add 216.239.0.0 mask 255.255.0.0 0.0.0.0 & rem YouTube
